@@ -1,2 +1,4 @@
 # jxlg0102
-add day1 projects: day1、url_name_demo
+day01:url、url_name
+
+day02:namespace、template、variable
